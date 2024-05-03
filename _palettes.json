@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "chainsaw",
+            "colors": [
+                "#000000",
+                "#f5edba",
+                "#9d303b",
+                "#BB1629",
+                "#454545",
+                "#c0c741",
+                "#647d34",
+                "#34859d",
+                "#17434b",
+                "#7ec4c1",
+                "#C7C7C7",
+                "#85858A",
+                "#9a6348",
+                "#1f0e1c",
+                "#F2CCB7",
+                "#FFFFFF"
+            ],
+            "custom": true
+        }
+    }
+}

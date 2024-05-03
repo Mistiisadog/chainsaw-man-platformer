@@ -1,0 +1,42 @@
+{
+    "name": "chainsaw man platformer",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.51",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f5edba",
+        "#9d303b",
+        "#BB1629",
+        "#454545",
+        "#c0c741",
+        "#647d34",
+        "#34859d",
+        "#17434b",
+        "#7ec4c1",
+        "#C7C7C7",
+        "#85858A",
+        "#9a6348",
+        "#1f0e1c",
+        "#F2CCB7",
+        "#FFFFFF"
+    ]
+}
